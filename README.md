@@ -7,11 +7,11 @@ Wir bauen eine API, welche die Informationen aus einer Datenbank ausgibt. Die En
 
 ## Endpoint 1
 
-URI: /vehicle/car/ 
-Beispiel: /vehicle/car/?car_id=1 
-Parameter: car_id (int) 
-Response-Type: application/json 
-Response: 
+- URI: /vehicle/car/ 
+- Beispiel: /vehicle/car/?car_id=1 
+- Parameter: car_id (int) 
+- sponse-Type: application/json 
+- Response: 
 { 
   "vendor": "Audi", 
   "model":"A4", 
