@@ -31,7 +31,7 @@ Wir bauen eine API, welche die Informationen aus einer Datenbank ausgibt. Die En
 "new":3
 }
 
-## API Endpoint 3
+## Endpoint 3
 - URI: /vehicle/model/ 
 - Beispiel: /vehicle/model/?q=A4 
 - Parameter: q (String) 
