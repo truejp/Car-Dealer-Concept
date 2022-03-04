@@ -3,11 +3,11 @@ Portfolioprüfung
 
 ## API Endpoint 1
 
-URI: /vehicle/car/
-Beispiel: /vehicle/car/?car_id=1
-Parameter: car_id (int)
-Response-Type: application/json
-Response:
+URI: /vehicle/car/ <br>
+Beispiel: /vehicle/car/?car_id=1 <br>
+Parameter: car_id (int) <br>
+Response-Type: application/json <br>
+Response: <br>
 {
   "vendor": "Audi",
   "model":"A4",
