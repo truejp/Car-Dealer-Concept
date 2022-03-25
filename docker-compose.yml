@@ -1,0 +1,20 @@
+version: "3.4"
+services:
+  backend:
+    image: node:lts-alpine
+    container_name: backend
+    ports:
+      - 3000:3000
+    volumes:
+      - ./VerteilteSysteme:/app
+    depends_on:
+      - mongodb
+  mongodb:
+    image: mongo:latest
+    container_name: mongo
+    ports:
+      - 27017:27017
+    volumes:
+      - .db/:/data/db
+    command:
+      - --quiet
