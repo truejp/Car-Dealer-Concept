@@ -1,5 +1,5 @@
 # Verteilte Systeme
-Portfolioprüfung 2022
+Portfolioprüfung 2022 <br>
 Sophia Sturm, Lisa Ackermann und Philipp Lehnet
 
 ## Beschreibung
