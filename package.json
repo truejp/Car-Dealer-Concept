@@ -1,0 +1,27 @@
+{
+  "name": "verteiltesysteme",
+  "version": "1.0.0",
+  "description": "Portfolio DHBW von Sophia, Lisa und Philipp",
+  "main": "index.js",
+  "scripts": {
+    "test": "check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truejp/VerteilteSysteme.git"
+  },
+  "keywords": [
+    "DHBW"
+  ],
+  "author": "trueJP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truejp/VerteilteSysteme/issues"
+  },
+  "homepage": "https://github.com/truejp/VerteilteSysteme#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-validators": "^1.0.4",
+    "nodemon": "^2.0.15"
+  }
+}
